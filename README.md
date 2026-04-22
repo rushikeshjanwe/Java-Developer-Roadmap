@@ -924,4 +924,4 @@ public void consume(OrderEvent event) {
 ---
 
 **Good luck with your Java Backend Developer journey! 🚀**
-<img width="910" height="18983" alt="image" src="https://github.com/user-attachments/assets/d4405876-5e12-40d9-a7ec-d3da59650f0c" />
+
