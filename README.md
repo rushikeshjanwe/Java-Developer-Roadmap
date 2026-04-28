@@ -10,8 +10,6 @@
 ---
 # 📌 PHASE 1: CORE JAVA (Weeks 1-3)
 
-
-
 ---
 
 ## 1️⃣ Java Memory Model & JVM (⭐ VERY IMPORTANT)
